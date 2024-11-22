@@ -1,4 +1,4 @@
-# Real-Time Geospatial Analytics and Visualization with Apache Spark Structured Streaming
+# Real-Time Geospatial Analytics and Visualization
 
 ## Introduction
 This code is for a data processing pipeline that implements an End-to-End Real-Time Geospatial Analytics and Visualization multi-component full-stack solution.
